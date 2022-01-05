@@ -18,7 +18,4 @@
 </div>
  
 ##
-<div style="display: inline_block">
-  <br>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/delphi-red?logo=delphi&style=for-the-badge" target="_blank"></a>
-</div>
+![Snake animation](https://github.com/herbertsrr/herbertsrr/blob/output/github-contribution-grid-snake.svg)
