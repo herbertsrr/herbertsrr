@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá, me chamo Herbert 😀
 
-<!--
-**herbertsrr/herbertsrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Desenvolvedor Delphi, PHP.
+- 🌱 Estudando C#
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/herbertsrr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herbertsrr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertsrr&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="display: inline_block">
+  <br>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/delphi-red?logo=delphi&style=for-the-badge"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/php-white?logo=php&style=for-the-badge"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/html5-black?logo=html5&style=for-the-badge"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/css3-black?logo=css3&style=for-the-badge"></a>
+</div>
+ 
+##
+<div style="display: inline_block">
+  <br>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/delphi-red?logo=delphi&style=for-the-badge" target="_blank"></a>
+</div>
