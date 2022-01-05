@@ -15,6 +15,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/php-white?logo=php&style=for-the-badge"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/html5-black?logo=html5&style=for-the-badge"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/css3-black?logo=css3&style=for-the-badge"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge"></a>
 </div>
  
 ##
